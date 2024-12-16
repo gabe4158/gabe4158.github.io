@@ -9,10 +9,10 @@
      <header>
         <nav>
             <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="history.html">History of the Internet</a></li>
-                <li><a href="browserwars.html">Browser Wars</a></li>
-                <li><a href="teachtech.html">Tech Tutorials</a></li>
+                <li><a href="index.md">Home</a></li>
+                <li><a href="history.md">History of the Internet</a></li>
+                <li><a href="browwar.md">Browser Wars</a></li>
+                <li><a href="skibidi.md">Tech Tutorials</a></li>
             </ul>
         </nav>
     </header>
