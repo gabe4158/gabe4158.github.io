@@ -9,16 +9,6 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <header>
-        <nav>
-            <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="history.html">History of the Internet</a></li>
-                <li><a href="browserwars.html">Browser Wars</a></li>
-                <li><a href="teachtech.html">Tech Tutorials</a></li>
-            </ul>
-        </nav>
-    </header>
     <main>
         <h1>History of the Internet</h1>
         <p>The Internet started in the late 1960s as a project called ARPANET. It expanded over time and transformed the way we communicate, shop, learn, and entertain ourselves.</p>
@@ -43,16 +33,6 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <header>
-        <nav>
-            <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="history.html">History of the Internet</a></li>
-                <li><a href="browserwars.html">Browser Wars</a></li>
-                <li><a href="teachtech.html">Tech Tutorials</a></li>
-            </ul>
-        </nav>
-    </header>
     <main>
         <h1>Browser Wars: Why Internet Explorer Sucks and Mozilla is Good</h1>
         <p>In the late 90s, Internet Explorer dominated the web. However, it was slow, insecure, and lacked features. Firefox, or Mozilla, revolutionized the web with open-source development and fast performance.</p>
@@ -77,16 +57,6 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <header>
-        <nav>
-            <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="history.html">History of the Internet</a></li>
-                <li><a href="browserwars.html">Browser Wars</a></li>
-                <li><a href="teachtech.html">Tech Tutorials</a></li>
-            </ul>
-        </nav>
-    </header>
     <main>
         <h1>Tech Tutorials</h1>
         <p>Here you can find tutorials on how to get started with web development, programming, and more!</p>
