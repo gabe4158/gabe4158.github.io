@@ -6,6 +6,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/style.css">
+     <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="history.html">History of the Internet</a></li>
+                <li><a href="browserwars.html">Browser Wars</a></li>
+                <li><a href="teachtech.html">Tech Tutorials</a></li>
+            </ul>
+        </nav>
+    </header>
 </head>
 <body>
     <main>
