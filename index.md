@@ -28,9 +28,6 @@
             <p>With the introduction of the World Wide Web in the 1990s, the internet became more user-friendly.</p>
         </section>
     </main>
-    <footer>
-        <p>&copy; 2024 Gabriel, Joshua, and Zion Teach Tech</p>
-    </footer>
 </body>
 </html>
 <!DOCTYPE html>
@@ -51,9 +48,6 @@
             <p>Firefox brought innovations such as tabs, faster speed, and better security.</p>
         </section>
     </main>
-    <footer>
-        <p>&copy; 2024 Gabriel, Joshua, and Zion Teach Tech</p>
-    </footer>
 </body>
 </html>
 <!DOCTYPE html>
