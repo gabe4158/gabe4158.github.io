@@ -36,7 +36,7 @@
 </body>
 </html>
 
-/* General Styles */
+
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f9;
