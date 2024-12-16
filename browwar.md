@@ -1,4 +1,6 @@
-# gabe4158.github.io
+title: browserswars
+layout: default
+# browserswars
 
 <!DOCTYPE html>
 <html lang="en">
