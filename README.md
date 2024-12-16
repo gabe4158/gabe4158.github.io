@@ -1,15 +1,5 @@
 # gabe4158.github.io
-/project-folder
-    /css
-        style.css
-    /images
-        (All image files)
-    /js
-        script.js
-    index.html
-    history.html
-    browserwars.html
-    teachtech.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
