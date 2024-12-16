@@ -1,7 +1,3 @@
----
-title: browserswars
-layout: default
----
 # browserswars
 
 <!DOCTYPE html>
