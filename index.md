@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gabriel, Joshua, and Zion Teach Tech</title>
+    <h1>Gabriel, Joshua, and Zion Teach Tech</h1>
     <link rel="stylesheet" href="style.css">
      <header>
         <nav>
