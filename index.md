@@ -11,7 +11,7 @@
             <ul>
                 <li><a href="index.md">Home</a></li>
                 <li><a href="history.md">History of the Internet</a></li>
-                <li><a href="browwar.md">Browser Wars</a></li>
+                <li><a href="gabe4158.github.io/browwar.md">Browser Wars</a></li>
                 <li><a href="skibidi.md">Tech Tutorials</a></li>
             </ul>
         </nav>
